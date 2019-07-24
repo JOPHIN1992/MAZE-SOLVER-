@@ -1,0 +1,5 @@
+".\Listings\STARTUP.obj",
+".\Listings\MAZESOLVER.obj" 
+TO ".\Listings\MAZESOLVER" 
+PRINT(".\Listings\MAZESOLVER.m51") RAMSIZE(256) 
+CODE( 0X0000-0X1FFF )
